@@ -12,8 +12,8 @@ Welcome to my GitHub page!
 - I went to school in the Philippines and majored in Mathematics 🧮.
 - My love ❤️ for languages and new cultures led me to Taiwan, where I studied Mandarin and worked at a local semiconductor equipment manufacturing company.
 - Back in South Korea, I dove into the world of tech at Vanilla Coding Bootcamp, where I completed 6-months full stack web development coursework 🖥️.
-- I'm currently looking for a junior-level web dev job 🙋🏻, eager to bring my diverse background and newly acquired skills to the tech industry!
-- Now, tell me about your story! 🛜
+- I'm currently looking for a junior-level web dev job 🙋🏻‍♂️, eager to bring my diverse background and newly acquired skills to the tech industry!
+- Now, tell me about your story! 🙌
 
 <br>
 
