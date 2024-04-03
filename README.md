@@ -34,7 +34,7 @@ Welcome to my GitHub page!
 <br>
 
 ### Projects
-- Team Project: [Needle In The Haystack](https://github.com/Team-Office360)
+- Team Project: [Needle In The Haystack](https://github.com/devsgk/NeedleInHaystack-client)
 <p>Developed YouTube-like video search engine. The project’s core challenge involved crawling YouTube videos and implementing robust search engine functionality.</p>
 
 <br>
