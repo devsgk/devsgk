@@ -45,6 +45,6 @@ Welcome to my GitHub page!
 <br>
 
 ### Let's Connect!
-- **LinedIn**: [Seunggyu Kim](https://www.linkedin.com/in/seunggyu-kim-685b51301/)
+- **LinkedIn**: [Seunggyu Kim](https://www.linkedin.com/in/seunggyu-kim-685b51301/)
 - **Email**: devkim0702@gmail.com
 
