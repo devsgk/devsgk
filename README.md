@@ -1,19 +1,9 @@
-# 안녕하세요, Hello, 你好！ 👋
+# Hello world!
 
 <br>
 
 Welcome to my GitHub page!
-<p>I'm Kim, originally from South Korea, currently looking for a junior-level web development job!</p>
-
-<br>
-
-### More about me... 🇰🇷 🇹🇼 🇵🇭
-- Hello! My actual name is Seunggyu 😋, but people call me Kim. Easier for you and hassel-free for me! 🤣
-- I went to school in the Philippines and majored in Mathematics 🧮.
-- My love ❤️ for languages and new cultures led me to Taiwan, where I studied Mandarin and worked at a local semiconductor equipment manufacturing company.
-- Back in South Korea, I dove into the world of tech at Vanilla Coding Bootcamp, where I completed 6-months full stack web development coursework 🖥️.
-- I'm currently looking for a junior-level web dev job 🙋🏻‍♂️, eager to bring my diverse background and newly acquired skills to the tech industry!
-- Now, tell me about your story! 🙌
+<p>Hi, I’m Kim, a frontend developer with a strong foundation in logic and problem-solving, thanks to my background in Mathematics. 🧮</p>
 
 <br>
 
