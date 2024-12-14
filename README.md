@@ -23,16 +23,6 @@ Welcome to my GitHub page!
 
 <br>
 
-### Projects
-- Team Project: [Needle In The Haystack](https://github.com/devsgk/NeedleInHaystack-client)
-<p>Developed YouTube-like video search engine. The project’s core challenge involved crawling YouTube videos and implementing robust search engine functionality.</p>
-
-<br>
-
-- Solo project: [Tech Story](https://github.com/devsgk/TechStory-client)
-<p>Developed Medium-like blog platform with GitHub-style approval feature, implementing a text editor from scratch.</p>
-
-<br>
 
 ### Let's Connect!
 - **LinkedIn**: [Seunggyu Kim](https://www.linkedin.com/in/seunggyu-kim-685b51301/)
